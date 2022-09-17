@@ -1,16 +1,16 @@
-### Hi there 👋
+👋 Hi, I’m Satbir Singh
 
-<!--
-**satbir544/satbir544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 How to reach me:
 
-Here are some ideas to get you started:
+    i. E-Mail: satbir268@gmail.com
+    ii. LinkedIn: https://www.linkedin.com/in/satbir-singh-b481771b5
+    
+- Languages:  C, C++, C#, Java, HTML, CSS, JavaScript, Python, PHP, ARM Assembly, 6808 Assembly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frameworks: ReactJS, Node.js, jQuery, JSON, .NET Framework, ASP.NET, Django
+
+- Database: MySQL, SQLITE, SQL, RDBMS, MongoDB
+
+- Platforms: Azure (Cloud Based Computing), GitHub, AWS, Heroku
+
+Well-versed in OOP style, wherever necessary.
