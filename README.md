@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Satbir Singh
 
-📫 How to reach me:
+## 📫 How to reach me:
 
     i. E-Mail: satbir268@gmail.com
     ii. LinkedIn: https://www.linkedin.com/in/satbir-singh-b481771b5
