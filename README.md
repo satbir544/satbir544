@@ -2,7 +2,7 @@
 
 - **Languages**:  C, C++, C#, Java, HTML, CSS, JavaScript, Python, PHP, ARM Assembly, 6808 Assembly
 
-- **Frameworks**: ReactJS, Node.js, Express.js, .NET Framework, ASP.NET
+- **Frameworks**: Angular, React, Node, Express, .NET Framework, ASP.NET
 
 - **Database**: MySQL, SQLITE, SQL, RDBMS, MongoDB
 
