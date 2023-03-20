@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Satbir Singh
 
-- **Languages**:  C, C++, C#, Java, HTML, CSS, JavaScript, Python, PHP, ARM Assembly, 6808 Assembly
+- **Languages**:  C, C++, C#, Java, HTML, CSS, JavaScript, Python, PHP
 
 - **Frameworks**: Angular, React, Node, Express, .NET Framework, ASP.NET
 
