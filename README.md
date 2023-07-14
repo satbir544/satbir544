@@ -1,14 +1,13 @@
 # 👋 Hi, I’m Satbir Singh
 
-- **Languages**:  C, C++, C#, Java, HTML, CSS, JavaScript, Python, PHP
+- **Languages**:  C, C++, C#, Java, HTML, CSS, JavaScript, Python, Solidity
 
-- **Frameworks**: Angular, React, Node, Express, .NET Framework, ASP.NET
+- **Frameworks**: Angular, React, Next.js, Node, Express, .NET Framework, ASP.NET
 
 - **Database**: MySQL, SQLITE, SQL, RDBMS, MongoDB
 
-- **Platforms**: Azure (Cloud Based Computing), GitHub, AWS, Heroku
+- **Platforms**: Hedera Hashgraph, Azure, GitHub, AWS, Heroku
 
-*Well-versed in OOP style and following best coding practices.*
 
 ---
 
