@@ -6,7 +6,7 @@
 
 - **Database**: MySQL, SQLITE, SQL, RDBMS, MongoDB
 
-- **Platforms**: Hedera Hashgraph, Hygraph, Azure, GitHub, AWS, Heroku
+- **Platforms**: Hedera Hashgraph, Hygraph, Azure, GitHub, AWS
 
 
 ---
