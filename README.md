@@ -2,7 +2,7 @@
 
 - **Languages**:  C, C++, C#, Java, HTML, CSS, JavaScript, Python, Solidity
 
-- **Frameworks**: Angular, React, Next.js, Node.js, Express.js, .NET Framework, ASP.NET
+- **Frameworks**: Angular, React, Next.js, Express.js, .NET Framework, ASP.NET
 
 - **Database**: MySQL, SQLITE, SQL, RDBMS, MongoDB
 
